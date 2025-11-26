@@ -3,7 +3,7 @@
 This project is a mobile application that utilizes **Deep Neural Networks** to transfer the artistic style of one image onto another. It features a modern **Flutter** frontend for user interaction and a **Python** backend that powers the machine learning algorithms for style transfer.
 
 <p align="center">
-  <img src="style_transfer_example.png" alt="Neural Style Transfer Example" width="600">
+  <img src="image.png" alt="Neural Style Transfer Example" width="600">
 </p>
 
 *In the example above, a portrait photo is reimagined using the style of Van Gogh's "The Starry Night".*
