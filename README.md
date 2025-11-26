@@ -28,6 +28,6 @@ This project is a mobile application that utilizes **Deep Neural Networks** to t
 
 * `frontend/`: Source code for the Flutter mobile application.
 * `backend/`: Python scripts for the API and the Style Transfer model.
-* `style_transfer_example.png`: Demo screenshot used in this README.
+* `image.png`: Demo screenshot used in this README.
 
 ---
