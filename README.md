@@ -6,7 +6,7 @@ This project is a mobile application that utilizes **Deep Neural Networks** to t
   <img src="image.png" alt="Neural Style Transfer Example" width="600">
 </p>
 
-*In the example above, a portrait photo is reimagined using the style of Van Gogh's "The Starry Night".*
+*In the example above, a portrait photo is reimagined using the style of one of cubic arts .*
 
 ## 🚀 Key Features
 
